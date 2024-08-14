@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @macbreakz
+- 👀 I’m interested in coding and turtles
+- 🌱 I’m currently learning javascript and swift
+- ⚡ Fun fact: I like turtles
